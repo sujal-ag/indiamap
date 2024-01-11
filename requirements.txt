@@ -1,5 +1,5 @@
 streamlit==1.29.0
-folium==0.12.1
+streamlit_folium
 jinja2
 branca
 geopandas
