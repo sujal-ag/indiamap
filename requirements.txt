@@ -1,2 +1,2 @@
-streamlit
-folium
+streamlit>=1.13.0
+folium>=0.13,!=0.15.0
