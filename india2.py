@@ -13,7 +13,7 @@ state_info = {
 }
 
 # Add GeoJSON data for Indian states (you can get this data online)
-geojson_data = r"C:\Users\Sujal\OneDrive\Desktop\india_state_geo.json"  # Replace with the actual path
+geojson_data = r"states_india.geojson"  # Replace with the actual path
 
 # Add the GeoJSON layer to the map
 folium.GeoJson(
