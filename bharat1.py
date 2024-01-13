@@ -15,7 +15,7 @@ state_info = {
 }
 
 # Add GeoJSON data for Indian states (you can get this data online)
-geojson_data = r"C:\Users\Sujal\OneDrive\Desktop\hackathon\states_india.geojson"  # Replace with the actual path
+geojson_data = r"states_india.geojson"  # Replace with the actual path
 
 # Function to handle state selection
 def state_selection(state_name):
