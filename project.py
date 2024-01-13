@@ -30,7 +30,7 @@ def page2():
     india_map = folium.Map(location=[20.5937, 78.9629], zoom_start=5)
 
     # Add GeoJSON data for Indian states (you can get this data online)
-    geojson_data = r"C:\Users\Sujal\OneDrive\Desktop\hackathon\states_india.geojson"  # Replace with the actual path
+    geojson_data = r"states_india.geojson"  # Replace with the actual path
 
     # Function to customize tooltip content
     def get_tooltip_content(feature):
